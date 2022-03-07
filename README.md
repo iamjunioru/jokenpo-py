@@ -1,2 +1,2 @@
-# jokenpo-py
-pedra, papel, tesoura criado com pygame em python. :)
+# jokenpo.py
+* pedra, papel, tesoura criado com pygame em python. :)
